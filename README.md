@@ -47,7 +47,8 @@ The welcoming landing page featuring a dynamic slideshow of top destinations.
 User interface where travelers input preferences and trip details.
 
 
-![Create Trip Page](path_to_create_trip_screenshot)
+![image alt](https://github.com/s8ulsaMy/Travista--AI-trip-planner-website/blob/4c463be14db72ae1da1d55d38f0343533f82488e/create-trip.jpeg)
+
 
 
 ---
@@ -59,7 +60,7 @@ User interface where travelers input preferences and trip details.
 Generated personalized trip itinerary with rich media and suggested activities.
 
 
-![Trip Generation Page](path_to_trip_generation_screenshot)
+![image alt](https://github.com/s8ulsaMy/Travista--AI-trip-planner-website/blob/4c463be14db72ae1da1d55d38f0343533f82488e/Trip-page.jpeg)
 
 
 ---
