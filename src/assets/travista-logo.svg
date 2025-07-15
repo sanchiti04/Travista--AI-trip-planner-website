@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 25C10 20 15 15 25 15H175C185 15 190 20 190 25C190 30 185 35 175 35H25C15 35 10 30 10 25Z" fill="#2563EB"/>
+  <text x="100" y="32" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">TRAVISTA</text>
+  <circle cx="30" cy="25" r="5" fill="white"/>
+  <circle cx="170" cy="25" r="5" fill="white"/>
+</svg> 
