@@ -35,8 +35,7 @@ Users can explore popular destinations, create personalized trip itineraries, an
 
 The welcoming landing page featuring a dynamic slideshow of top destinations.
 
-
-![image alt]([path_to_start_page_screenshot](https://github.com/s8ulsaMy/Travista--AI-trip-planner-website/blob/b2445f5ffc3e99d4784659cb77e0aa7296eb2fab/start-page.jpeg))
+![image alt](https://github.com/s8ulsaMy/Travista--AI-trip-planner-website/blob/b2445f5ffc3e99d4784659cb77e0aa7296eb2fab/start-page.jpeg)
 
 
 ---
