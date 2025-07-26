@@ -130,10 +130,3 @@ For any questions or feedback, feel free to reach out:
  Sanchitis Email: sanchiti.ag@gmail.com
 
 
----
-
-
- How to Add Your Screenshots
-
-
-Replace `path_to_start_page_screenshot`, `path_to_create_trip_screenshot`, and `path_to_trip_generation_screenshot` with your actual screenshot image paths or URLs (you can upload images to the repo or host them elsewhere).
