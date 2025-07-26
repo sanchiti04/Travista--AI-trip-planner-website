@@ -137,12 +137,3 @@ For any questions or feedback, feel free to reach out:
 
 
 Replace `path_to_start_page_screenshot`, `path_to_create_trip_screenshot`, and `path_to_trip_generation_screenshot` with your actual screenshot image paths or URLs (you can upload images to the repo or host them elsewhere).
-
-
----
-
-
-If you want, I can help you generate the markdown code for embedding your actual images once you share them! Would you like that?
-
-
-
