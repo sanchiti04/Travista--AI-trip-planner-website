@@ -114,16 +114,7 @@ Generated personalized trip itinerary with rich media and suggested activities.
  Contribution
 
 
-This project was developed collaboratively by [Your Name](your_github_link) and [Sanchiti](her_github_link). Contributions are welcome — please open issues or pull requests for suggestions and improvements.
-
-
----
-
-
- License
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project was developed collaboratively by [Sam Soloman] and [Sanchiti Agrawal]. Contributions are welcome — please open issues or pull requests for suggestions and improvements.
 
 
 ---
@@ -135,8 +126,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, feel free to reach out:
 
 
- Your Email: [your.email@example.com](mailto:your.email@example.com)
- Sanchitis Email: [sanchiti.email@example.com](mailto:sanchiti.email@example.com)
+ Your Email:Managesam12@gmail.com
+ Sanchitis Email: sanchiti.ag@gmail.com
 
 
 ---
